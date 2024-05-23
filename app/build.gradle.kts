@@ -69,4 +69,7 @@ dependencies {
 
     // 구글 지도 사용 선언
     implementation("com.google.android:gms:play-services:12.0.1")
+
+    // play 서비스 사용 선언
+    implementation("com.google.android.gms:play-services:12.0.1")
 }
