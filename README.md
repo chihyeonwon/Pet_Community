@@ -9,7 +9,20 @@ Wearable, Smart Phone
 
 ## 목표
 DAU 1,000,000
-
+# Collaborators
+<table>
+</tr>
+  <tr>
+    </td>
+    <td align="center">
+  <a href="https://github.com/chihyeonwon">
+    <img src="markdown/ljh.jpg" width="100px;" alt=""/>
+    원치현<br>
+    팀장
+  </a>
+  <tr>
+  </tr>
+<table>
 ## 임시보호(임보) 기능
 ```
 노인(약자)분들이 반려견,묘를 키울 때 관리가 힘들어서 잃어버리는 경우가 실제로 많이 일어난다.
