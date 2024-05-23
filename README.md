@@ -7,8 +7,11 @@ Wearable, Smart Phone
 
 펫에 부착하여 위치 정보를 얻는다    
 
-## 목표
-DAU 1,000,000
+## 우리의 목표
+DAU 1,000,000 유치, 단순 펫 커뮤니티가 아닌 펫과 사람을 잇는다. Pet-titon
+
+
+
 # Collaborators
 <table>
 </tr>
