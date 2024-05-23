@@ -2,6 +2,10 @@
 [Android] 우리동네 반려동물 1등 커뮤니티 앱 프로젝트
 
 UI : Kotlin Compose
+OS : Android   
+Wearable, Smart Phone   
+
+펫에 부착하여 위치 정보를 얻는다    
 
 ## 임시보호(임보) 기능
 ```
