@@ -65,7 +65,9 @@ RPG 에서 레벨 시스템은 제일 중요한 요소임
 
 구매, 홍보 직무는 제휴업체와의 협상이 중요하다고 생각함
 
-![image](https://github.com/chihyeonwon/Pet_Community/assets/58906858/0d75462d-bdca-4038-95f1-36928cbbbdf8)
+새로고침할 때 피드 업데이트 -> 중독성, 도파민
+
 ```
+![image](https://github.com/chihyeonwon/Pet_Community/assets/58906858/0d75462d-bdca-4038-95f1-36928cbbbdf8)
 컴포즈 게이지바
 ```
